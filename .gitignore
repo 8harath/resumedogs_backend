@@ -1,0 +1,17 @@
+.venv
+.new_venv
+.env
+__pycache__
+extra
+current-config.yaml
+env-vars.yaml
+._.env
+._.venv
+._.gitignore
+._.dockerignore
+._.readme.md
+._.requirements.txt
+._.Dockerfile
+._.docker-compose.yml
+._.docker-compose.override.yml
+._.docker-compose.override.yml

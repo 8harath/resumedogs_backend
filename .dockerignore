@@ -1,0 +1,13 @@
+# filepath: /media/kitn/CodeStuff/cv_bandar/.dockerignore
+.venv
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+*.log
